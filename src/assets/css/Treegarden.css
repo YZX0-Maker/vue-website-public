@@ -1,0 +1,117 @@
+/*
+    @@@  YEANLOND
+    @@@  Twitter : https://www.twitter.com/@yeanlond
+    @@@  Medemium
+    @@@  Github : https://github.com/Yean-ZX0
+ */
+
+
+/*** TREEGARDEN v0.0.8 */
+
+body {
+  background-color: white;
+}
+
+/**** GRIDS ***/
+
+.container-absoluted {
+  position: absolute;
+  top: 100px;
+}
+
+/*MD*/
+@media screen and (max-width: 576px) and (min-width: 0px) {
+  .container-absoluted {
+    position: unset;
+    top: 0;
+  }
+}
+
+/**** INPUTS ****/
+
+/**** BUTTONS **/
+
+/***=========================================================> SHORTS ***/
+
+/****
+@option for make a background video in max-screen
+*/
+.video-background {
+  width: 100%;
+  opacity: 0.3;
+}
+/****
+@render a image with organization
+*/
+.simply-imagen {
+  height: 600px;
+  border-radius: 30px;
+}
+
+@media screen and (max-width: 576px) and (min-width: 0px) {
+  .video-background {
+    display: none;
+  }
+
+  .hidden-mobile {
+    display: none;
+  }
+}
+
+/***==============================================================>Margins**/
+.mt-m-5 {
+  margin-top: 45px;
+}
+
+@media screen and (max-width: 576px) and (min-width: 0px) {
+  .mt-m-5 {
+    margin-top: 15px;
+  }
+  .mt-m-15 {
+    margin-top: 45px;
+  }
+}
+
+/***Spacing***/
+
+.spacing-row-100x250 {
+  padding-top: 100px;
+  padding-bottom: 250px;
+}
+.spacing-row-100x100 {
+  padding-top: 40px;
+  padding-bottom: 100px;
+}
+.spacing-top-50 {
+  position: absolute;
+  top: 50px;
+}
+.spacing-title-300 {
+    width: 100%;
+    background: #fff;
+    height: 330px;
+}
+
+@media screen and (max-width: 576px) and (min-width: 0px) {
+  .simply-imagen {
+    height: 400px;
+    border-radius: 30px;
+  }
+  .spacing-top-50 {
+    position: absolute;
+    top: 5px;
+  }
+  .spacing-row-100x100 {
+    padding-top: 10px;
+    padding-bottom: 50px;
+  }
+  .spacing-row-mobile-100x100 {
+    padding-top: 200px;
+    padding-bottom: 50px;
+  }
+  .spacing-title-300 {
+    width: 100%;
+    background: #fff;
+    height: 50px;
+  }
+}
