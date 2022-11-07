@@ -7,17 +7,17 @@
         <div class="mt-5">
           <v-row
             ><v-col cols="2">
-              <v-btn text target="_blank" href="https://github.com/Yean-ZX0"
+              <v-btn text target="_blank" href=""
                 ><v-icon x-large>mdi-github</v-icon></v-btn
               >
             </v-col>
             <v-col cols="2">
-              <v-btn text target="_blank" href="https://www.twitter.com/yeanlond/"
+              <v-btn text target="_blank" href=""
                 ><v-icon x-large>mdi-twitter</v-icon></v-btn
               >
             </v-col>
             <v-col cols="2">
-              <v-btn text target="_blank" href="https://www.linkedin.com/in/yeanlond/"
+              <v-btn text target="_blank" href=""
                 ><v-icon x-large>mdi-linkedin</v-icon></v-btn
               >
             </v-col>
@@ -29,10 +29,10 @@
           <v-icon x-large>mdi-account-box</v-icon> Contacts
         </div>
         <div class="text-h6">
-          <v-icon>mdi-cellphone</v-icon> +34 641 896 541
+          <v-icon>mdi-cellphone</v-icon> zzzzzzzzzzzz
         </div>
         <div class="text-h6">
-          <v-icon>mdi-email</v-icon> yeanabadia29@gmail.com
+          <v-icon>mdi-email</v-icon> zzzzzzzzzzzzz
         </div>
       </v-col>
       <v-col class="hidden-mobile" cols="1"></v-col>

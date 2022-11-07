@@ -16,7 +16,7 @@
 
       <v-spacer></v-spacer>
       <v-btn class="hidden-mobile"
-        href="https://www.linkedin.com/in/yeanlond/"
+        href=""
         target="_blank"
         text
       >
@@ -24,7 +24,7 @@
         <v-icon>mdi-linkedin</v-icon>
       </v-btn>
       <v-btn class="hidden-mobile"
-        href="https://github.com/Yean-ZX0"
+        href=""
         target="_blank"
         text
       >

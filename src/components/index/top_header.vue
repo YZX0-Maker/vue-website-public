@@ -19,13 +19,13 @@
                 font-size: 105px;
               "
             >
-              Antonio Jimeno
+              Example name
             </div>
             <div
               class="text-h5 mb-15"
               style="font-family: 'Consolas', monaco, monospace"
             >
-              Fullstack Developer
+              Example Job
             </div>
             <v-img
               :src="require('../../assets/logo.svg')"
@@ -33,7 +33,6 @@
               contain
               height="120"
             />
-            <v-btn class="mt-5" href="https://firebasestorage.googleapis.com/v0/b/treetanium-world.appspot.com/o/yeansite%2FCV_YEAN.docx?alt=media&token=d906c0c1-ac92-47ce-a6a3-3235a76e64e3"><v-icon>mdi-file</v-icon> Download Curriculum</v-btn>
           </v-col>
         </v-row>
         <v-row class="mt-10">
